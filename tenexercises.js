@@ -57,15 +57,17 @@ var reverse = function (s) {
 // }
 
 /*Write a function findLongestWord() that takes an array of words and returns the length of the longest one.*/
-var arrayTwo = [x];
-var arrayWords = [];
-var findLongestWord = function () {
-  x = arrayTwo.length;
-  for (i = x, i <= x, i-=) {
-    arrayWords.push(x);
-  };
-
-};
+// var arrayTwo = [0, 1, 2, n];
+// var arrayWords = [];
+// var findLongestWord = function () {
+//   arrayTwo.forEach( function(n) {
+//
+//
+//   });
+//
+//
+//
+// };
 
 /*Write a function filterLongWords() that takes an array of words and an integer i and returns the array of words that are longer than i.*/
 
