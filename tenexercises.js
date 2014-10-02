@@ -60,9 +60,9 @@ var reverse = function (s) {
 var arrayTwo = [x];
 var arrayWords = [];
 var findLongestWord = function () {
-  x = 
-  for (x.length > 0, i <= arrayTwo.length, i-=) {
-    console.log(arrayTwo);
+  x = arrayTwo.length;
+  for (i = x, i <= x, i-=) {
+    arrayWords.push(x);
   };
 
 };
