@@ -50,14 +50,22 @@ var reverse = function (s) {
 
 
 /*Represent a small bilingual lexicon as a Javascript object in the following fashion {"merry":"god", "christmas":"jul", "and":"och", "happy":gott", "new":"nytt", "year":"år"} and use it to translate your Christmas cards from English into Swedish.*/
-var english = ["merry", "christmas", "and", "happy", "new", "year"];
-var swedish = ["god", "jul", "och", "gott", "nytt", "ar"]
-var engToSwed = function(x) {
-  if ()
-}
+// var english = ["merry", "christmas", "and", "happy", "new", "year"];
+// var swedish = ["god", "jul", "och", "gott", "nytt", "ar"]
+// var engToSwed = function(x) {
+//   if ()
+// }
 
 /*Write a function findLongestWord() that takes an array of words and returns the length of the longest one.*/
+var arrayTwo = [x];
+var arrayWords = [];
+var findLongestWord = function () {
+  x = 
+  for (x.length > 0, i <= arrayTwo.length, i-=) {
+    console.log(arrayTwo);
+  };
 
+};
 
 /*Write a function filterLongWords() that takes an array of words and an integer i and returns the array of words that are longer than i.*/
 
